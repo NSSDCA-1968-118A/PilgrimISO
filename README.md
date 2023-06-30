@@ -10,11 +10,13 @@
     <h4>Collaborators</h4>
     <a href="mailto:Furkan.Kalaycioglu@alu.uclm.es">Furkan Kalaycioglu</a><br>
     
-    <br>
-    <h4>Lecturer</h4>
-    <a href="mailto:Ismael.Caballero@uclm.es">Ismael Caballero Muñoz-Reja</a>
+   
+   
    </p>
 </div>
+
+ <h4>Lecturer</h4>
+    <a href="mailto:Ismael.Caballero@uclm.es">Ismael Caballero Muñoz-Reja</a>
 
 # Welcome
 Welcome to the collaboratory GitHub page of Group A.11 On this repository, you'll find the results of our work within this course. 

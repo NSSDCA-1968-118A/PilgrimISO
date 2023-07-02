@@ -22,3 +22,4 @@
 Welcome to the collaboratory GitHub page of Group A.11 On this repository, you'll find the results of our work within this course. 
 <br>
 <br>
+To learn more about the documentation of the project please head over to wiki of the repository.
